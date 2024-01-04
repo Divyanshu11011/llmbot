@@ -1,0 +1,3 @@
+streamlit==1.15.0
+langchain==<version>  # Replace <version> with the appropriate version
+tiktoken==0.9.5
